@@ -1,13 +1,15 @@
 Idea Plugin Hello World Demo
 ===============================================
 
+Notice: Please use [idea-plugin-hello-world-demo](https://github.com/idea-demos/idea-plugin-hello-world-demo) as base project, which is controlled buy gradle, much better than this one.
+
 Add a new action(menu) `hello`, clicking on it will result in showing a dialog.
 
 Please make sure you have unique plugin id and name in `resources/META-INF/plugin.xml`:
 
 ```xml
-<id>idea-plugin-hello-world-demo</id>
-<name>idea-plugin-hello-world-demo</name>
+<id>idea-plugin-ide-created-hello-world-demo</id>
+<name>idea-plugin-ide-created-hello-world-demo</name>
 ```
 
 If clicking on the menu shows nothing

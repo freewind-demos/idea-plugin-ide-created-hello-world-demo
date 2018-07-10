@@ -1,6 +1,6 @@
 <idea-plugin>
-    <id>idea-plugin-hello-world-demo</id>
-    <name>idea-plugin-hello-world-demo</name>
+    <id>idea-plugin-ide-created-hello-world-demo</id>
+    <name>idea-plugin-ide-created-hello-world-demo</name>
     <version>1.0</version>
     <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
